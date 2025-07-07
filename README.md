@@ -61,6 +61,12 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         <br>
         <label>Gender:</label>
         <input type="radio">
+        <label>FEMALE</label>
+        <input type="radio">
+        <label>MALE</label>
+        <input type="radio">
+        <label>OTHERS</label>
+
         <br>
         <br>
         <label>Date of birth:</label>
